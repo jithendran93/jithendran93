@@ -77,9 +77,9 @@ content: TheCyberScroll (YouTube)
 
 | 🔧 Project | 📝 Description | 🛠️ Tech |
 |------------|----------------|---------|
-| **[Application Crash Reporter](#)** | Enterprise-grade crash detection, notification & centralized reporting for Windows, Linux & macOS | Python, Cross-platform |
+| **[Application Crash Reporter](#)** | Enterprise-grade crash detection, notification & centralized reporting for Windows, Linux & macOS | Go (GoLang), Cross-platform |
 | **[Trellix Root Certificate Checker](#)** | Validates 26 critical certificates (13 root + 13 intermediate) on Windows endpoints; reports to ePO for bulk remediation | PowerShell, Trellix ePO |
-| **[Linux TA Status Monitor](#)** | GUI tool to streamline and monitor Trellix Agent & EDRF operations on Linux servers | Python, tkinter |
+| **[Linux TA Status Monitor](#)** | GUI tool to streamline and monitor Trellix Agent & EDRF operations on Linux servers | Go (GoLang), Linux |
 | **[HX IOC Rule Creator](#)** | GUI tool to simplify IOC rule creation in FireEye/Trellix HX — eliminates complex CLI curl sequences | Python, tkinter |
 | **[DLP Log Analyzer](#)** | Python-based log diagnostic utility that minimized enterprise downtime during performance bottlenecks | Python, Batch |
 | **[WinPE Creator Tool](#)** | Recovery utility for drive encryption built atop Windows ADK/PE to restore corrupted systems | Windows ADK, WinPE |
