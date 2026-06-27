@@ -131,6 +131,7 @@ I'm open to **remote opportunities** in Product Management, Security Delivery, a
 
 <img src="https://komarev.com/ghpvc/?username=jithendran93&color=3b82f6&style=flat-square" alt="Profile Views" />
 
-*"Security is not a product, but a process." – Bruce Schneier*
+*"Security is not a product, but a process." — Bruce Schneier*
 
 </div>
+
