@@ -77,14 +77,14 @@ content: TheCyberScroll (YouTube)
 
 | 🔧 Project | 📝 Description | 🛠️ Tech |
 |------------|----------------|---------|
+| **[EDRF Client Diagnostics Analyzer](#)** | Automates analysis of EDRF Client Diagnostics packages from Trellix HX, eliminating hours of manual log review for support teams | Go (GoLang), Trellix HX |
+| **[CyberScroll Syslog Server](#)** | Free open-source syslog server with enterprise-grade features and custom parsers for Trellix EPO & EDRF EventStreamer, with per-app dashboards | Go (GoLang), Syslog |
 | **[Application Crash Reporter](#)** | Enterprise-grade crash detection, notification & centralized reporting for Windows, Linux & macOS | Go (GoLang), Cross-platform |
 | **[Trellix Root Certificate Checker](#)** | Validates 26 critical certificates (13 root + 13 intermediate) on Windows endpoints; reports to ePO for bulk remediation | PowerShell, Trellix ePO |
 | **[Linux TA Status Monitor](#)** | GUI tool to streamline and monitor Trellix Agent & EDRF operations on Linux servers | Go (GoLang), Linux |
 | **[HX IOC Rule Creator](#)** | GUI tool to simplify IOC rule creation in FireEye/Trellix HX — eliminates complex CLI curl sequences | Python, tkinter |
 | **[DLP Log Analyzer](#)** | Python-based log diagnostic utility that minimized enterprise downtime during performance bottlenecks | Python, Batch |
 | **[WinPE Creator Tool](#)** | Recovery utility for drive encryption built atop Windows ADK/PE to restore corrupted systems | Windows ADK, WinPE |
-| **[EDRF Client Diagnostics Analyzer](#)** | Automates analysis of EDRF Client Diagnostics packages from Trellix HX, eliminating hours of manual log review for support teams | Python, Trellix HX |
-| **[CyberScroll Syslog Server](#)** | Free open-source syslog server with enterprise-grade features and custom parsers for Trellix EPO & EDRF EventStreamer, with per-app dashboards | Python, Syslog |
 | **[Supportability Portal](#)** | Internal knowledge hub centralizing critical engineering resources for global technical teams | Web Technologies |
 
 > 🔗 GitHub repos coming soon — check back or [view the full portfolio](https://jithendran93.github.io)
