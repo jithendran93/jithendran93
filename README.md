@@ -83,6 +83,8 @@ content: TheCyberScroll (YouTube)
 | **[HX IOC Rule Creator](#)** | GUI tool to simplify IOC rule creation in FireEye/Trellix HX — eliminates complex CLI curl sequences | Python, tkinter |
 | **[DLP Log Analyzer](#)** | Python-based log diagnostic utility that minimized enterprise downtime during performance bottlenecks | Python, Batch |
 | **[WinPE Creator Tool](#)** | Recovery utility for drive encryption built atop Windows ADK/PE to restore corrupted systems | Windows ADK, WinPE |
+| **[EDRF Client Diagnostics Analyzer](#)** | Automates analysis of EDRF Client Diagnostics packages from Trellix HX, eliminating hours of manual log review for support teams | Python, Trellix HX |
+| **[CyberScroll Syslog Server](#)** | Free open-source syslog server with enterprise-grade features and custom parsers for Trellix EPO & EDRF EventStreamer, with per-app dashboards | Python, Syslog |
 | **[Supportability Portal](#)** | Internal knowledge hub centralizing critical engineering resources for global technical teams | Web Technologies |
 
 > 🔗 GitHub repos coming soon — check back or [view the full portfolio](https://jithendran93.github.io)
